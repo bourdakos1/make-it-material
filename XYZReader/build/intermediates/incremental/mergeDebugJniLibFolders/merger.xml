@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/Niko/Documents/NanoDegree/make-it-material/XYZReader/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/Niko/Documents/NanoDegree/make-it-material/XYZReader/src/debug/jniLibs"/></dataSet></merger>
